@@ -1,16 +1,25 @@
-## Hi there 👋
+## 🧑‍💻 About Me:
 
-<!--
-**ay-bhatt/ay-bhatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋  
+Nice to meet you, I’m **Ayush Bhatt**!
 
-Here are some ideas to get you started:
+- 🎓 B.Tech CSE (AI & Data Science) student  
+- 🤖 Interested in AI, Data Science, Cloud & Full-Stack Development  
+- 🌄 Building real-world projects and local-language AI from Uttarakhand  
+- 🧠 Always learning by building and experimenting  
+- 💬 Ask me about Python, C++, Java, Data Science, Web Dev  
+- 📫 How to reach me: GitHub | LinkedIn | Email  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ **Fun fact:** If I’m not coding, I’m probably exploring ideas, learning something new, or vibing with music.
+
+##  About Me
+
+- B.Tech CSE (AI & Data Science)  
+- AI • Data Science • Cloud • Full-Stack  
+- Building practical projects & local-language AI 🌄  
+- Learning by doing, improving every day
+
+##  Socials:
+
+- 💼 LinkedIn: linkedin.com/in/ayush-bhatt-50b9bb249/
+- 📧 Email: ayushbhatt2200@gmail.com
